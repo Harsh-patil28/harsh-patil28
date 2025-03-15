@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Harsh Patil</h1>
+<h1 align="center">Hi 👋, I'm Harsh A Patil</h1>
 <h3 align="center">Cultivating Excellence in VLSI Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-patil28&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-patil28" /> </p>
